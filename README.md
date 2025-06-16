@@ -15,3 +15,4 @@ https://civitai.com/models/288584/autismmix-sdxl
 AutismMix SDXL：AutismMix_anon様
 https://civitai.com/models/288584/autismmix-sdxl
 
+※official MzCG githubにあるイラストファイルの無断使用・再配布・販売等はご遠慮ください。
