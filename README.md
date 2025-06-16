@@ -1,3 +1,5 @@
+《MzCG-GPTsで使用された》
+
 □生成ツール
 stable diffusion (WebUI,ComfyUI)
 stable diffusion(SDXL,NoobAI,Illustrious)
