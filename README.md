@@ -1,0 +1,15 @@
+□生成ツール
+stable diffusion (WebUI,ComfyUI)
+stable diffusion(SDXL,NoobAI,Illustrious)
+
+□生成モデル
+MegaMixXLV3 - AnimeTV Fusion/Screencap：KXRO様
+https://civitai.com/models/1437398/megamixxlv3-animetv-fusionscreencap
+
+AutismMix SDXL：AutismMix_anon様
+https://civitai.com/models/288584/autismmix-sdxl
+
+□学習モデル
+AutismMix SDXL：AutismMix_anon様
+https://civitai.com/models/288584/autismmix-sdxl
+
