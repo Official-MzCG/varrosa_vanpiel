@@ -66,6 +66,47 @@
       "emotion": "sad",
       "expression": "tearful",
       "images": []
+    },
+    {
+      "emotion": "shy",
+      "expression": "embarrassed",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/01_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/02_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/03_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/04_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/05_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/06_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/07_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/08_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/09_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/10_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/11_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/12_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/13_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/14_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/15_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/16_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/17_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/18_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/19_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/20_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/21_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/22_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/23_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/24_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/25_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/26_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/27_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/28_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/29_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/30_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/31_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/32_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/33_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/34_embarrassed.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/shy/embarrassed/35_embarrassed.png"
+      ]
     }
   ]
 }
