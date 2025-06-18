@@ -42,6 +42,30 @@
       "emotion": "happy",
       "expression": "新しいフォルダー",
       "images": []
+    },
+    {
+      "emotion": "sad",
+      "expression": "tear",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/sad/tear/01_tear.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/sad/tear/02_tear.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/sad/tear/03_tear.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/sad/tear/04_tear.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/sad/tear/05_tear.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/sad/tear/06_tear.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/sad/tear/07_tear.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/sad/tear/08_tear.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/sad/tear/09_tear.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/sad/tear/10_tear.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/sad/tear/11_tear.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/sad/tear/12_tear.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/sad/tear/13_tear.png"
+      ]
+    },
+    {
+      "emotion": "sad",
+      "expression": "tearful",
+      "images": []
     }
   ]
 }
