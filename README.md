@@ -8,6 +8,9 @@ chatGPTにて、MzCG-GPTsシリーズとして、｜varrosa-vanpiel(β)ver｜バ
 GPTから『varrosa』と検索、あるいはこちらのURLからアクセス✨
 https://chatgpt.com/g/g-682da1e2f3848191871e9c856fb47290-varrosa-vanpiel-b-ver-harotusauanhiru
 
+MzCGではChatGPTにて、オリジナルGPTsを公開予定です。無料でご利用いただけますから、お気持ちで構いません。ご支援お待ちしております🤗”
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H41G7T74)
+
 《MzCG-GPTsで使用された》
 
 □生成ツール
@@ -24,8 +27,5 @@ https://civitai.com/models/288584/autismmix-sdxl
 □学習モデル
 AutismMix SDXL：AutismMix_anon様
 https://civitai.com/models/288584/autismmix-sdxl
-
-《MzCG-ko-fi》
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H41G7T74)
 
 ※official MzCG githubにあるイラストファイルの無断使用・再配布・販売等はご遠慮ください。
