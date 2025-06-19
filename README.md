@@ -53,6 +53,12 @@ https://civitai.com/models/288584/autismmix-sdxl
 ⚠️ Please do not use, redistribute, or sell the illustration files available on the official MzCG GitHub without permission.
 
 
+｜
+
+｜
+
+｜
+
 
 
 《MzCG-GPTs🤗》”日本語訳”
