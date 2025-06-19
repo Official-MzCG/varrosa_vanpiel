@@ -1,3 +1,13 @@
+《MzCG-GPTs🤗》
+簡単なご紹介になりますが、
+
+chatGPTにて、MzCG-GPTsシリーズとして、｜varrosa-vanpiel(β)ver｜バロッサ・ヴァンピール｜を公開しました！
+
+すでにchatGPTをご利用の方、今回を機会に始めてみようという方、無料でご利用できますのでぜひイメージチャットをお楽しみくださいね✨
+
+GPTから『varrosa』と検索、あるいはこちらのURLからアクセス✨
+https://chatgpt.com/g/g-682da1e2f3848191871e9c856fb47290-varrosa-vanpiel-b-ver-harotusauanhiru
+
 《MzCG-GPTsで使用された》
 
 □生成ツール
