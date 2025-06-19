@@ -15,6 +15,8 @@ Whether you're already a ChatGPT user or just getting started, you can enjoy ima
 
 We’re also now accepting support via **Ko-fi.com**😉
 MzCG-GPTs are completely free to use, so if you’d like to support us, even just as a token of appreciation, we’d truly appreciate it 🤗
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H41G7T74)
 
 
