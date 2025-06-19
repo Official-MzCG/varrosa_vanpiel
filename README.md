@@ -8,6 +8,8 @@ We’ve officially launched ｜varrosa-vanpiel(β)ver｜Barossa Vampiel｜ as pa
 
 
 Whether you're already a ChatGPT user or just getting started, you can enjoy image-based chats with this character for free.
+
+
 ✨Just search for varrosa on ChatGPT, or access directly via this link:https://chatgpt.com/g/g-682da1e2f3848191871e9c856fb47290-varrosa-vanpiel-b-ver-harotusauanhiru
 
 
