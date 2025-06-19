@@ -2,6 +2,24 @@
   "character": "Varrosa",
   "data": [
     {
+      "emotion": "angry",
+      "expression": "slight_angry",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/slight_angry/01_angry.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/slight_angry/02_angry.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/slight_angry/03_angry.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/slight_angry/04_angry.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/slight_angry/05_angry.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/slight_angry/06_angry.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/slight_angry/07_angry.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/slight_angry/08_angry.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/slight_angry/09_angry.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/slight_angry/10_angry.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/slight_angry/11_angry.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/slight_angry/12_angry.png"
+      ]
+    },
+    {
       "emotion": "happy",
       "expression": "laugh",
       "images": []
