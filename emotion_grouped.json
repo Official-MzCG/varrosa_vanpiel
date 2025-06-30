@@ -1,4 +1,226 @@
 {
   "character": "Varrosa",
-  "data": []
+  "data": [
+    {
+      "emotion": "angry",
+      "expression": "angry_LV1",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/angry_LV1/1.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/angry_LV1/2.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/angry_LV1/3.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/angry_LV1/4.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/angry_LV1/5.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/angry_LV1/6.png"
+      ]
+    },
+    {
+      "emotion": "angry",
+      "expression": "angry_LV2",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/angry_LV2/1.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/angry_LV2/2.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/angry/angry_LV2/3.png"
+      ]
+    },
+    {
+      "emotion": "bashful",
+      "expression": "bashful_LV1",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/bashful/bashful_LV1/1.png"
+      ]
+    },
+    {
+      "emotion": "bashful",
+      "expression": "bashful_LV2",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/bashful/bashful_LV2/2.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/bashful/bashful_LV2/3.png"
+      ]
+    },
+    {
+      "emotion": "bashful",
+      "expression": "bashful_LV3",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/bashful/bashful_LV3/1.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/bashful/bashful_LV3/2.png"
+      ]
+    },
+    {
+      "emotion": "calm_ochituki",
+      "expression": "calm_ochituki_LV1",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/calm_ochituki/calm_ochituki_LV1/1.png"
+      ]
+    },
+    {
+      "emotion": "disgust",
+      "expression": "disgust_LV1",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/disgust/disgust_LV1/1.png"
+      ]
+    },
+    {
+      "emotion": "embarrassed",
+      "expression": "embarrassed_LV1",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV1/1.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV1/10.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV1/2.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV1/3.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV1/4.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV1/5.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV1/6.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV1/7.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV1/8.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV1/9.png"
+      ]
+    },
+    {
+      "emotion": "embarrassed",
+      "expression": "embarrassed_LV2",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV2/1.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV2/10.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV2/11.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV2/12.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV2/2.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV2/3.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV2/4.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV2/5.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV2/6.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV2/7.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV2/8.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV2/9.png"
+      ]
+    },
+    {
+      "emotion": "embarrassed",
+      "expression": "embarrassed_LV3",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV3/1.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV3/2.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV3/3.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV3/4.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV3/5.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV3/6.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV3/7.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/embarrassed/embarrassed_LV3/8.png"
+      ]
+    },
+    {
+      "emotion": "fear",
+      "expression": "fear_LV!",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/fear/fear_LV!/1.png"
+      ]
+    },
+    {
+      "emotion": "grin",
+      "expression": "grin_LV1",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/grin/grin_LV1/1.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/grin/grin_LV1/105.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/grin/grin_LV1/2.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/grin/grin_LV1/3.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/grin/grin_LV1/4.png"
+      ]
+    },
+    {
+      "emotion": "playful",
+      "expression": "playful_LV1",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/playful/playful_LV1/1.png"
+      ]
+    },
+    {
+      "emotion": "smile",
+      "expression": "smile_LV1",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV1/1.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV1/10.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV1/11.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV1/2.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV1/3.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV1/4.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV1/5.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV1/6.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV1/7.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV1/8.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV1/9.png"
+      ]
+    },
+    {
+      "emotion": "smile",
+      "expression": "smile_LV2",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV2/1.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV2/2.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV2/3.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV2/4.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV2/5.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV2/6.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV2/7.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV2/8.png"
+      ]
+    },
+    {
+      "emotion": "smile",
+      "expression": "smile_LV3",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV3/1.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smile/smile_LV3/2.png"
+      ]
+    },
+    {
+      "emotion": "smug",
+      "expression": "smug_LV1",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smug/smug_LV1/1.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smug/smug_LV1/2.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smug/smug_LV1/3.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smug/smug_LV1/4.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smug/smug_LV1/5.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smug/smug_LV1/6.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smug/smug_LV1/7.png"
+      ]
+    },
+    {
+      "emotion": "smug",
+      "expression": "smug_LV2",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/smug/smug_LV2/1.png"
+      ]
+    },
+    {
+      "emotion": "tear",
+      "expression": "tear_LV1",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/tear/tear_LV1/1.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/tear/tear_LV1/2.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/tear/tear_LV1/3.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/tear/tear_LV1/4.png"
+      ]
+    },
+    {
+      "emotion": "tear",
+      "expression": "tear_LV2",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/tear/tear_LV2/1.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/tear/tear_LV2/2.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/tear/tear_LV2/3.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/tear/tear_LV2/4.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/tear/tear_LV2/5.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/tear/tear_LV2/6.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/tear/tear_LV2/7.png",
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/tear/tear_LV2/8.png"
+      ]
+    },
+    {
+      "emotion": "tear",
+      "expression": "tear_LV3",
+      "images": [
+        "https://raw.githubusercontent.com/Official-MzCG/varrosa_vanpiel/main/emotion/tear/tear_LV3/1.png"
+      ]
+    }
+  ]
 }
